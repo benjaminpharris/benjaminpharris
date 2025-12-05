@@ -1,4 +1,5 @@
-## Hi, I’m Ben — and my non-exhaustive list of self-identifiers includes:
+## *Hi, I’m Ben.*  
+My non-exhaustive list of self-identifiers includes:
 - **Data scientist**, because it’s the easiest shorthand
 - **Finance-fluent**, with a bias toward rigor and realism
 - Physics enthusiast (what is a spinor?)
