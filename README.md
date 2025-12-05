@@ -9,7 +9,7 @@ My non-exhaustive list of self-identifiers includes:
 - Wine drinker, caffeine-fiend, and occasional techno philosopher (usually in conjunction with one of the former)
 - Yoga do-er, sometimes for balance, often for sanity
 - Nerd (closeted and celebrated)
-- Bayesian modeling dabbler — priors welcome
+- Bayesian modeling dabbler, priors welcome
 - Python programmer (out of necessity and joy)
 - R programmer (out of joy)
 - Book reader, knowledge hoarder, and probably overthinking something right now
